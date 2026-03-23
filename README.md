@@ -35,8 +35,8 @@ JavaScript (Vanilla JS) – Game logic & interactivity
 
 📂 Project Structure:
 
-📁 Fraction-Division-Game
- ┣ 📄 index.html   (Main file with UI + logic)
+📁 Fraction
+ ┣ 📄 index.php   (Main file with UI + logic)
  ┣ 📄 README.md
 
 Your entire game is currently inside one file.

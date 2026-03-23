@@ -55,7 +55,7 @@ Right-click → Open with Live Server
 
 Then open:
 
-http://localhost:8000
+[http://localhost:8000](http://localhost/Fraction/)
 
 🎮 How to Play:
 
